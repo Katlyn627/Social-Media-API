@@ -52,7 +52,7 @@ test
 
 * If you have any questions about this repo, open an issue or contact me directly at: [katlynboches@gmail.com](mailto:katlynboches@gmail.com).
 
-* You can find more of my work at [Katlyn627](https://www.github.com/Katlyn627).
+* You can find more of my work at [GitHub/KAtlyn627](https://www.github.com/Katlyn627).
 
 
 
@@ -60,7 +60,7 @@ test
 
 
 
-* Github: You can find the deployment link at [Katlyn627](https://www.github.com/Katlyn627/Social-Media-API).
+* Github: You can find the deployment link at [Social Media GitHub](https://www.github.com/Katlyn627/Social-Media-API).
 
 * Video Walkthrough Folder: You can find the video walkthrough link at [GoogleDrive]().
 
