@@ -1,0 +1,25 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "A REST API for a social media app. Built with Express, Mongoose, and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katlyn627/Social-Media-API.git"
+  },
+  "author": "Katlyn Boches",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Katlyn627/Social-Media-API/issues"
+  },
+  "homepage": "https://github.com/Katlyn627/Social-Media-API#readme",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}

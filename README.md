@@ -52,7 +52,7 @@ test
 
 * If you have any questions about this repo, open an issue or contact me directly at: [katlynboches@gmail.com](mailto:katlynboches@gmail.com).
 
-* You can find more of my work at [GitHub/KAtlyn627](https://www.github.com/Katlyn627).
+* You can find more of my work at [GitHub/Katlyn627](https://www.github.com/Katlyn627).
 
 
 
