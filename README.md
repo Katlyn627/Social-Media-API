@@ -37,6 +37,7 @@ If you have any questions about this repo, open an issue or contact me directly 
 
 ## **Deployment** 
 
-Github: You can find the deployment link at [Katlyn627](https://www.github.com/Katlyn627/Social-Media-API).
-Video Walkthrough Folder: You can find the video walkthrough link at [GoogleDrive]().
+* Github: You can find the deployment link at [Katlyn627](https://www.github.com/Katlyn627/Social-Media-API).
+
+* Video Walkthrough Folder: You can find the video walkthrough link at [GoogleDrive]().
 
