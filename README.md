@@ -2,6 +2,8 @@
 
 ## **Video Walkthrough of Project**
 
+![Terminal and Create User](https://user-images.githubusercontent.com/86095070/150688413-64b75f84-e600-45b1-a50e-0001a8820d52.gif)
+![GET, UPDATE, DELETE USER](https://user-images.githubusercontent.com/86095070/150688544-1a1dd53e-0a93-4a6a-a2ce-423256005ffe.gif)
 
 
 ## **Description**
