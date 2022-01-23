@@ -64,5 +64,5 @@ test
 
 * Github: You can find the deployment link at [Social Media GitHub](https://www.github.com/Katlyn627/Social-Media-API).
 
-* Video Walkthrough Folder: You can find the video walkthrough link at [GoogleDrive]().
+* Video Walkthrough Folder: You can find the video walkthrough link at [GoogleDrive](https://drive.google.com/drive/folders/1Ay_hfUOu3o1CaLNSkXx3tI5v3HVnGnF8).
 
